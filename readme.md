@@ -2,7 +2,7 @@
 
 Build Commands
 
-```JSON
+```
 Start Server (Backend) = npm run server
 Start Client (Frontend) = npm run client
 Start the entire project (Frontend + Backend) = npm run dev
